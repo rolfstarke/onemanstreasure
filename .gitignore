@@ -1,5 +1,9 @@
 # folders
-/data
+/datasets
+/models
+
+# files
+# settings.env
 
 # Compiled source #
 ###################
@@ -21,6 +25,7 @@
 *.jar
 *.rar
 *.tar
+*.tar.gz
 *.zip
 
 # Logs and databases #
